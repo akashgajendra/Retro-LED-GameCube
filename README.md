@@ -1,17 +1,17 @@
 # Retro-LED-GameCube
 
 This repo contains the files for the creation of the Retro LED Game Cube.
-The project utilizes a Raspberry Pi as a micro-controller to drive all the hardware components - LED Matrices, Buttons, LCD Display Banner.
 
-The game cube enables users to play four 2-D grid based games - Snake, Tic Tac Toe, Ad Astra (Asteroid Game), Pong. All games were implemeneted using Python.
+The project utilizes a Raspberry Pi as a micro-controller to drive all the hardware components - LED Matrices, Buttons, LCD Display Banner. The game cube enables users to play four 2-D grid based games - Snake, Tic Tac Toe, Ad Astra (Asteroid Game), Pong. All games were implemeneted using Python.
+
+Team Members: Akash Gajendra, Yash Kalyani
 
 Here's the link to the project demo
 
 https://youtu.be/Cb9dB-xvJlM
 
-Team Members: Akash Gajendra, Yash Kalyani
 
-Project Life Cycle Documented:
+**Project Life Cycle Documented**
 
 Equipment Testing
 
